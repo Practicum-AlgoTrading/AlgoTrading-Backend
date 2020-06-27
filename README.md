@@ -1,5 +1,5 @@
 # AlgoTrading-Backend
-Backend for the Practicum AlgoTrading team
+Backend for the Practicum AlgoTrading team.
 
 # To Test Locally #
 `source venv/bin/activate`  
